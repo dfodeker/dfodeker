@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Dynamic-owl, podAi and Neptune-oms
+- 🌱 I’m currently learning Typescript and Rust
+- 💬 Ask me about Design, Travel  
+- 📫 How to reach me: https://www.linkedin.com/in/derekfodekerodgers/
+
+- ⚡ Fun fact: Every year, I challenge myself to learn a new hobby. So far, I've taken up golf, tennis, and even ice skating
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **dfodeker/dfodeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
