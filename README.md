@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Typescript and Rust
 - 💬 Ask me about Design, Travel  
 - 📫 How to reach me: https://www.linkedin.com/in/derekfodekerodgers/
-- ⚡ Fun fact: Every year, I challenge myself to learn a new hobby. So far, I've taken up golf, tennis, and even ice skating
+- ⚡ Fun fact: Every year, I challenge myself to learn a new hobby. 
  
 ![alt text](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 
