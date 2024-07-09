@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Dynamic-owl, podAi and Neptune-oms
-- 🌱 I’m currently learning Typescript and Rust
+- 🔭 I’m currently working @ FXR Racing
+- 🌱 I’m currently learning Rust
 - 💬 Ask me about Design, Travel  
 - 📫 How to reach me: https://www.linkedin.com/in/derekfodekerodgers/
 - ⚡ Fun fact: Every year, I challenge myself to learn a new hobby. 
