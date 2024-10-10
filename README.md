@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working @ FXR Racing
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about Design, Travel  
+- 🌱 I’m currently learning Go
+
 - 📫 How to reach me: https://www.linkedin.com/in/derekfodekerodgers/
-- ⚡ Fun fact: Every year, I challenge myself to learn a new hobby. 
+- ⚡ Fun fact: I'am a real developer I promise 
  
 ![alt text](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 
